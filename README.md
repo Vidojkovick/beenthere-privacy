@@ -1,2 +1,3 @@
 # beenthere-privacy
-Privacy policy for BeenThere, the Android map app you unlock by exploring.
+Privacy policy for BeenThere, the Android map application you unlock by exploring.
+
